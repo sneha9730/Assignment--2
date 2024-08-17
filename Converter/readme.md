@@ -16,7 +16,7 @@ Copy the `convertTemperature.jsx` file provided and place it in the newly create
 
 ### 3. Add Input and Button Elements
 Enhance your `App.jsx` component by adding the following elements:
-- An input field to accept the temperature in Celsius.
+- An input field to accept the temperature in Celsius or Fahrenheit.
 - A button to trigger the conversion from Celsius to Fahrenheit and vice versa.
 - Display the converted result dynamically.
 
