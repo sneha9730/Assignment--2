@@ -35,9 +35,10 @@ Enhance your understanding of React components, hooks (`useState` and `useEffect
   - Assignment 2: Calculator
 
 ## **Expected Outputs**
-![Output-1](Outputs/Output-1.jpeg)
+![Output-1](Outputs/Output-4.jpeg)
+![Output-2](Outputs/Output-1.jpeg)
 ![Output-3](Outputs/Output-3.jpeg)
-![Output-4](Outputs/Output-4.jpeg)
+
 
 ## **Deadline**
 23 August 2024
