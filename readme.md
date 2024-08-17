@@ -35,4 +35,4 @@ Enhance your understanding of React components, hooks (`useState` and `useEffect
   - Assignment 2: Calculator
 
 ## **Expected Outputs**
-![Output-1](URL or path to the image)
+![Output-1]('./Output/Output-1.jpeg')
