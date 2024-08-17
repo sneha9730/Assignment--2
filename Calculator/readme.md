@@ -36,8 +36,8 @@ Enhance your understanding of React components, hooks (`useState` and `useEffect
 
 ## **Expected Outputs**
 ![Output-1](Calculator/Outputs/Output-1.jpeg)
-![Output-1](Calculator/Outputs/Output-1.jpeg)
-![Output-1](Calculator/Outputs/Output-1.jpeg)
+![Output-3](Calculator/Outputs/Output-3.jpeg)
+![Output-4](Calculator/Outputs/Output-4.jpeg)
 
 ## **Deadline**
 23 August 2024
