@@ -33,3 +33,5 @@ Modify and add the `<h1>` tag in `App.jsx` to display:
 - Roll Number . (Followed by your roll number)
 - Assignment 2: Celsius to Fahrenheit Converter
 
+## Expected Output
+![Output-1]()
