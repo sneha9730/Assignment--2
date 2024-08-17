@@ -18,8 +18,8 @@ Begin by creating a new React application using Vite. This will serve as the fou
 Use useState and useEffect hooks to manage the input temperature and the converted temperature. Ensure that the result is also displayed in the browser's console.
 ### **5. Style the Application:**
 Apply CSS styling to the input field and button within the App.css file. Make sure the styling aligns with a clean and user-friendly design.
-### **6. Update the Content of the '<h1>' Tag:**
-Modify and add the '<h1>' tag in App.jsx to display 
+### **6. Update the Content of the 'h1' Tag:**
+Modify and add the 'h1' tag in App.jsx to display 
 - COSC ReactJS and FastAPI Bootcamp
 - Roll Number . (Followed by your roll number)
 - Assignment 2: Celsius to Fahrenheit Converter
