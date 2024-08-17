@@ -4,8 +4,7 @@
 In this assignment, you'll create a temperature converter using React and Vite. The application will allow users to convert temperatures between Celsius and Fahrenheit. Your task is to create an application using React and Vite.
 
 ## Objectives
-- Deepen your understanding of React, hooks, buttons, and input fields by building a simple temperature converter.
-- Work with React components, manage state using hooks, and style the application using CSS.
+Deepen your understanding of React, hooks, buttons, and input fields by building a simple temperature converter. Work with React components, manage state using hooks, and style the application using CSS.
 
 ## Tasks
 
