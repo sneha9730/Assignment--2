@@ -1,12 +1,12 @@
 # **Assignment 2: Celsius to Fahrenheit Converter**
-Overview
-In this assignment, you'll create a temperature converter using React and Vite. The application will allow users to convert temperatures between Celsius and Fahrenheit. Your task is to create an application using React and Vite.
-Objectives
+## **Overview**  
+In this assignment, you'll create a temperature converter using React and Vite. The application will allow users to convert temperatures between Celsius and Fahrenheit. Your task is to create an application using React and Vite.  
+## **Objectives**
 Deepen your understanding of React, hooks, buttons, and input fields by building a simple temperature converter. You'll work with React components, manage state using hooks, and style the application using CSS.
-Tasks
-Create a New React Application:
-Begin by creating a new React application using Vite. This will serve as the foundation for your temperature converter.
-Import the provided convertTemperature.jsx File:
+## **Tasks**
+### **1. Create a New React Application:**
+- Begin by creating a new React application using Vite. This will serve as the foundation for your temperature converter.
+### ** 2. Import the provided convertTemperature.jsx File:**
 Copy the convertTemperature.jsx file provided and place it in the newly created folder . Import this file into your App.jsx component.
 Add Input and Button Elements:
 Enhance your App.jsx component by adding the following elements:
