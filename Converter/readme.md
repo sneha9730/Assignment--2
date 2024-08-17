@@ -34,4 +34,4 @@ Modify and add the `<h1>` tag in `App.jsx` to display:
 - Assignment 2: Celsius to Fahrenheit Converter
 
 ## Expected Output
-![Output-1]()
+![Output-1](Output/o1.jpeg)
