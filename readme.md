@@ -37,7 +37,7 @@ Enhance your understanding of React components, hooks (`useState` and `useEffect
 ## **Expected Outputs**
 ![Output-3](Output/Output-3.jpeg)
 ![Output-1](Output/Output-1.jpeg)
-![Output-2](Output/Output-2.jpeg)
+
 
 
 ## **Deadline**
