@@ -1,4 +1,4 @@
-### Assignment 2: Celsius to Fahrenheit Converter
+# **Assignment 2: Celsius to Fahrenheit Converter**
 Overview
 In this assignment, you'll create a temperature converter using React and Vite. The application will allow users to convert temperatures between Celsius and Fahrenheit. Your task is to create an application using React and Vite.
 Objectives
